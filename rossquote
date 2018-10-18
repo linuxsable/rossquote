@@ -1,3 +1,5 @@
+#!/bin/bash
+
 quotes=(
     "That's a crooked tree. We'll send him to Washington."
     "The only thing worse than yellow snow is green snow."

@@ -22,4 +22,4 @@ quotes=(
 )
 
 rand=$[$RANDOM % ${#quotes[@]}]
-echo "\"${quotes[$rand]}\" -Bob Ross"
+echo "\"${quotes[$rand]}\" -Bob Ross" | cowsay | lolcat

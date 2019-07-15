@@ -1,5 +1,6 @@
 # rossquote
 
+```
  ________________________________________
 / "I really believe that if you practice \
 | enough you could paint the 'Mona Lisa' |
@@ -10,6 +11,7 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
+```
 
 ## Install
 
